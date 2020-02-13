@@ -1,0 +1,7 @@
+tai khoan admin
+username:admin	
+password:123456
+
+tai khoan manager
+username:manager
+password:123456
